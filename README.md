@@ -2,7 +2,7 @@
 README de perfil personalizado por Mirtes Fernanda 💻
 -->
 
-<div align="center">
+<div align="left">
 
 # 👋 Olá, eu sou a Mirtes Fernanda!
 
