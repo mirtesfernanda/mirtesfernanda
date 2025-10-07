@@ -15,11 +15,11 @@ README de perfil personalizado por Mirtes Fernanda 💻
 ---
 
 ## 💫 Sobre mim:
-- 📚 Atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** na **UNINTER**  
-- 🌱 Estudando **SQL, Python, IA Generativa e Engenharia de Software**  
-- 💻 Participante de bootcamps e programas de capacitação em tecnologia  
-- 🎯 Foco em **crescimento profissional e aprendizado contínuo**  
-- 🤝 Interesse em atuar em **squads colaborativos e inovadores**  
+- 📚 Atualmente cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** na **UNINTER.**  
+- 🌱 Estudando **SQL, Python, IA Generativa e Engenharia de Software.**  
+- 💻 Participante de bootcamps e programas de capacitação em tecnologia.  
+- 🎯 Foco em **crescimento profissional e aprendizado contínuo.**  
+- 🤝 Interesse em atuar em **squads colaborativos e inovadores.**  
 
 ---
 
